@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "checkpoint-recovery-lab"
+version = "0.1.0"
+description = "Deterministic failure-trace replay for checkpoint interval experiments"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.scripts]
+checkpoint-lab = "checkpoint_lab.cli:main"
+
+[tool.setuptools]
+packages = ["checkpoint_lab"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
