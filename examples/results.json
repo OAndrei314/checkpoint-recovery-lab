@@ -1,0 +1,79 @@
+[
+  {
+    "interval_seconds": 480.0,
+    "total_seconds": 33800.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 1505.0,
+    "checkpoint_seconds": 2655.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 59,
+    "efficiency": 0.8520710059171598
+  },
+  {
+    "interval_seconds": 960.0,
+    "total_seconds": 35285.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 4310.0,
+    "checkpoint_seconds": 1335.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 29,
+    "efficiency": 0.8162108544707383
+  },
+  {
+    "interval_seconds": 240.0,
+    "total_seconds": 36125.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 1090.0,
+    "checkpoint_seconds": 5395.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 119,
+    "efficiency": 0.7972318339100346
+  },
+  {
+    "interval_seconds": 1920.0,
+    "total_seconds": 39170.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 8900.0,
+    "checkpoint_seconds": 630.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 14,
+    "efficiency": 0.7352565739086036
+  },
+  {
+    "interval_seconds": 120.0,
+    "total_seconds": 40865.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 433.0,
+    "checkpoint_seconds": 10792.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 239,
+    "efficiency": 0.7047595742077573
+  },
+  {
+    "interval_seconds": 3840.0,
+    "total_seconds": 46895.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 16940.0,
+    "checkpoint_seconds": 315.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 7,
+    "efficiency": 0.6141379678004052
+  },
+  {
+    "interval_seconds": 60.0,
+    "total_seconds": 51545.0,
+    "useful_seconds": 28800.0,
+    "lost_work_seconds": 267.0,
+    "checkpoint_seconds": 21638.0,
+    "recovery_seconds": 840.0,
+    "failures": 7,
+    "completed_checkpoints": 479,
+    "efficiency": 0.5587350858473179
+  }
+]
